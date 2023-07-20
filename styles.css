@@ -1,0 +1,13 @@
+h1 {
+    font-style: italic;
+    color: blueviolet;
+    background-color: aqua;
+    margin: 50px;
+}
+
+ul {
+    background-color: aquamarine;
+    border: 1px;
+    border-radius: 25px;
+    margin: 20px;
+}
