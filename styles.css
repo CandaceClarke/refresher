@@ -1,13 +1,40 @@
+body {
+    background-color: rgba(98, 120, 150, 0.719);
+}
+
 h1 {
     font-style: italic;
-    color: blueviolet;
-    background-color: aqua;
+    color: rgb(64, 17, 107);
+    text-align: center;
+    background-color: rgb(123, 230, 230);
+    padding: 10px;
     margin: 50px;
+    max-width: 400px;
 }
 
 ul {
-    background-color: aquamarine;
-    border: 1px;
+    background-color: rgba(141, 219, 193, 0.842);
+    padding: 15px;
+    border: 10px;
+    border-color: rgb(24, 146, 105);
     border-radius: 25px;
     margin: 20px;
+    list-style: none;
+}
+
+
+button {
+    height: 35px;
+    border: 2px;
+    border-radius: 8px;
+    color: rgb(0, 32, 90);
+    font-weight: bold;
+}
+
+p {
+    background-color: blanchedalmond;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    border-radius: 5px;
+    padding: 15px;
 }
